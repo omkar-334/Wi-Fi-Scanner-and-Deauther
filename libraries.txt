@@ -1,0 +1,7 @@
+Adafruit_NeoPixel
+ArduinoJson
+ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays
+Hd44780
+LinkedList
+LiquidCrystal
+LiquidCrystal_I2C
